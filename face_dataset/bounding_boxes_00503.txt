@@ -1,0 +1,2 @@
+./face_dataset/mr_little_fat/download1.png 73 33 133 114
+./face_dataset/mr_little_fat/images.png 97 26 139 84

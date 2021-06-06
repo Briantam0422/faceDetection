@@ -1,0 +1,6 @@
+./face_dataset/mr_lam/06_img_1040_780.png 394 286 485 386
+./face_dataset/mr_lam/af423060-9e8d-11eb-addb-ebe94d15249b.png 304 67 451 265
+./face_dataset/mr_lam/7dde0e5e0446413aaea5b3e2f235055atplv-mlhdmxsy5m-q75-1080-1080.image_.png 309 76 529 345
+./face_dataset/mr_lam/_1_img_1032_688.png 489 71 742 392
+./face_dataset/mr_lam/p.png 334 240 650 658
+./face_dataset/mr_lam/607fbdf3d0fc9_WhatsApp Image 2021-04-20 at 2.46.24 PM.png 484 409 772 783

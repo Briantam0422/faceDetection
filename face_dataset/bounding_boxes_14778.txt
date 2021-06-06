@@ -1,0 +1,1 @@
+./face_dataset/mr_little_fat/159869.png 235 139 383 337
