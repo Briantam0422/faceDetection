@@ -1,0 +1,10 @@
+./face_dataset/Jerry/JPEG影像 15.png 1050 928 2082 2334
+./face_dataset/Jerry/JPEG影像 19.png 608 916 1578 2292
+./face_dataset/Jerry/JPEG影像 18.png 1239 1391 2275 2811
+./face_dataset/Jerry/JPEG影像 14.png 1022 1281 1899 2426
+./face_dataset/Jerry/JPEG影像 13.png 1131 1402 2158 2710
+./face_dataset/Jerry/JPEG影像 12.png 1156 991 2286 2613
+./face_dataset/Jerry/JPEG影像 11.png 955 1227 1860 2451
+./face_dataset/Jerry/JPEG影像 17.png 884 1198 2003 2716
+./face_dataset/Jerry/JPEG影像 20.png 474 1099 1643 2490
+./face_dataset/Jerry/JPEG影像 16.png 951 772 2101 2344

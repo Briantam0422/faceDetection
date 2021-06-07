@@ -1,0 +1,10 @@
+./face_dataset/Brian/JPEG影像 5.png 665 1180 1959 2838
+./face_dataset/Brian/JPEG影像 9.png 533 1232 1490 2383
+./face_dataset/Brian/JPEG影像 8.png 1064 1510 2042 2761
+./face_dataset/Brian/JPEG影像 4.png 794 601 1724 1566
+./face_dataset/Brian/JPEG影像 3.png 670 1109 1819 2518
+./face_dataset/Brian/JPEG影像 2.png 618 1488 1553 2685
+./face_dataset/Brian/JPEG影像 10.png 674 1194 1840 2641
+./face_dataset/Brian/JPEG影像.png 679 1085 1735 2429
+./face_dataset/Brian/JPEG影像 7.png 194 340 2204 2777
+./face_dataset/Brian/JPEG影像 6.png 543 744 1614 2024

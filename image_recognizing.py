@@ -13,7 +13,7 @@ import pickle
 import sys
 from skimage.transform import rescale, resize, downscale_local_mean
 
-img_path = 'example_07.jpeg'
+img_path = 'taylor01.JPEG'
 modeldir = './model/20191012-185253.pb'
 classifier_filename = './class/classifier.pkl'
 npy = './npy'

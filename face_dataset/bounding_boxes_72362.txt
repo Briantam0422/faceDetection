@@ -1,0 +1,9 @@
+./face_dataset/taylor/JPEG image 8.png 1238 478 1952 1395
+./face_dataset/taylor/JPEG image 9.png 675 562 1925 2146
+./face_dataset/taylor/JPEG image 5.png 257 232 2115 2803
+./face_dataset/taylor/JPEG image 2.png 578 612 1807 2315
+./face_dataset/taylor/JPEG image 3.png 559 764 1737 2309
+./face_dataset/taylor/JPEG image.png 476 686 1700 2345
+./face_dataset/taylor/JPEG image 10.png 372 477 1827 2499
+./face_dataset/taylor/JPEG image 6.png 684 1822 1527 2963
+./face_dataset/taylor/JPEG image 7.png 371 534 1959 2682
