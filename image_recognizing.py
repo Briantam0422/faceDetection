@@ -11,9 +11,17 @@ import os
 import time
 import pickle
 import sys
+import urllib.request
 from skimage.transform import rescale, resize, downscale_local_mean
 
-img_path = 'taylor01.JPEG'
+# img_path_command = sys.argv[1]
+# print("image path: " + img_path
+# _command)
+
+image_url = "https://firebasestorage.googleapis.com/v0/b/moodnhome-bee31.appspot.com/o/taylor01.JPEG?alt=media&token=88829dd3-c97e-4d36-bd36-e28a37955af0"
+
+img_path = "example_04.jpeg"
+
 modeldir = './model/20191012-185253.pb'
 classifier_filename = './class/classifier.pkl'
 npy = './npy'
@@ -53,8 +61,14 @@ with tf.Graph().as_default():
 
         print('Start Recognition!')
         prevTime = 0
-        # ret, frame = video_capture.read()
+
+        # read local path image
         frame = cv2.imread(img_path, 0)
+
+        # read url image
+        # req = urllib.request.urlopen(image_url)
+        # image_arr = np.asarray(bytearray(req.read()), dtype=np.uint8)
+        # frame = cv2.imdecode(image_arr, 0)
 
         frame = cv2.resize(frame, (0, 0), fx=0.5, fy=0.5)  # resize frame (optional)
 
@@ -125,6 +139,5 @@ with tf.Graph().as_default():
                 print('Unable to align')
         cv2.imshow('Image', frame)
 
-        if cv2.waitKey(1000000) & 0xFF == ord('q'):
-            sys.exit("Thanks")
-        cv2.destroyAllWindows()
+
+        sys.exit("Thanks")
